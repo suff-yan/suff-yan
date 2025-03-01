@@ -1,8 +1,10 @@
 I'm Sufiyan , better known as Sufi.
-interested in expanding my limits.
-currently Learning python and opencv together
-trying to do something about object detection and identification and it's applications
-mail me @ muhammedsufiyan678@gmail.com to contact
+
+interested in computer science,Math,Physics,Philosophy and the best ways to live life 
+
+currently a student at IIT Bombay pursuing B.Tech in computer science (till 2028)
+
+mail me @ muhammedsufiyan678@gmail.com to contact (especially if by any chance you also would like to use computer science and technologies for getting better at football :))
   
 
 <!---
